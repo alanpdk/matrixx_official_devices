@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "ARIJIT-SAHA",
+            "telegram": "",
+            "github": ""
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Xiaomi Redmi Note 5",
+    "device_display_codename": "whyred",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/whyred/",
+    "version": "fourteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
