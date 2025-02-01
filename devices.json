@@ -1,53 +1,116 @@
 {
   "devices": [
-       {
-          "codename": "alioth",
-          "vendor": "Xiaomi",
-          "model": "POCO F3/K40/Mi 11X",
-          "maintainer_name": "Roxor-007",
-          "active": true
-       },
-       {
-          "codename": "veux",
-          "vendor": "Xiaomi",
-          "model": "Redmi Note 11 Pro+ 5G / POCO X4 Pro 5G",
-          "maintainer_name": "Aswin OP",
-          "active": true
-       },
-       {
-          "codename": "stone",
-          "vendor": "Xiaomi",
-          "model": "Redmi Note 12 / POCO X5 5G",
-          "maintainer_name": "Arijit Saha",
-          "active": true
-       },
-       {
-          "codename": "whyred",
-          "vendor": "Xiaomi",
-          "model": "Redmi Note 5",
-          "maintainer_name": "Arijit Saha",
-          "active": true
-       },
-       {
-          "codename": "gta4lwifi",
-          "vendor": "Samsung",
-          "model": "Galaxy Tab A7",
-          "maintainer_name": "CuriousNom",
-          "active": true
-       },
-       {
-          "codename": "beryllium",
-          "vendor": "Xiaomi",
-          "model": "POCO F1",
-          "maintainer_name": "NotDheeraj06",
-          "active": true
-       },
-       {
-          "codename": "garnet",
-          "vendor": "Xiaomi",
-          "model": "Redmi Note 13 Pro 5G/Poco X6 5G",
-          "maintainer_name": "GameNCode",
-          "active": true
-       }
+    {
+      "codename": "alioth",
+      "vendor": "Xiaomi",
+      "model": "POCO F3/K40/Mi 11X",
+      "maintainer_name": "Roxor-007",
+      "active": true
+    },
+    {
+      "codename": "veux",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 11 Pro+ 5G / POCO X4 Pro 5G",
+      "maintainer_name": "Aswin OP",
+      "active": true
+    },
+    {
+      "codename": "stone",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 12 / POCO X5 5G",
+      "maintainer_name": "Arijit Saha",
+      "active": true
+    },
+    {
+      "codename": "whyred",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 5",
+      "maintainer_name": "Arijit Saha",
+      "active": true
+    },
+    {
+      "codename": "gta4lwifi",
+      "vendor": "Samsung",
+      "model": "Galaxy Tab A7",
+      "maintainer_name": "CuriousNom",
+      "active": true
+    },
+    {
+      "codename": "beryllium",
+      "vendor": "Xiaomi",
+      "model": "POCO F1",
+      "maintainer_name": "NotDheeraj06",
+      "active": true
+    },
+    {
+      "codename": "garnet",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 13 Pro 5G/Poco X6 5G",
+      "maintainer_name": "GameNCode",
+      "active": true
+    },
+    {
+      "codename": "f62",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy F62",
+      "maintainer_name": "FrEeRuNnEr4EvEr",
+      "active": true
+    },
+    {
+      "codename": "d1x",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy Note 10 5G",
+      "maintainer_name": "FrEeRuNnEr4EvEr",
+      "active": true
+    },
+    {
+      "codename": "d2x",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy Note 10+ 5G",
+      "maintainer_name": "FrEeRuNnEr4EvEr",
+      "active": true
+    },
+    {
+      "codename": "d2s",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy Note 10+",
+      "maintainer_name": "FrEeRuNnEr4EvEr",
+      "active": true
+    },
+    {
+      "codename": "d1",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy Note 10",
+      "maintainer_name": "FrEeRuNnEr4EvEr",
+      "active": true
+    },
+    {
+      "codename": "beyondx",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy S10 5G",
+      "maintainer_name": "FrEeRuNnEr4EvEr",
+      "active": true
+    },
+    {
+      "codename": "beyond2lte",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy S10+",
+      "maintainer_name": "FrEeRuNnEr4EvEr",
+      "active": true
+    },
+    {
+      "codename": "beyond1lte",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy S10",
+      "maintainer_name": "FrEeRuNnEr4EvEr",
+      "active": true
+    },
+    {
+      "codename": "beyond0lte",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy S10e",
+      "maintainer_name": "FrEeRuNnEr4EvEr",
+      "active": true
+    }
   ]
 }
