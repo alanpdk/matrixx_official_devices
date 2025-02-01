@@ -41,6 +41,13 @@
           "model": "POCO F1",
           "maintainer_name": "NotDheeraj06",
           "active": true
+       },
+       {
+          "codename": "garnet",
+          "vendor": "Xiaomi",
+          "model": "Redmi Note 13 Pro 5G/Poco X6 5G",
+          "maintainer_name": "GameNCode",
+          "active": true
        }
   ]
 }
