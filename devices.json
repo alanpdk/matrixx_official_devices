@@ -111,6 +111,13 @@
       "model": "Samsung Galaxy S10e",
       "maintainer_name": "FrEeRuNnEr4EvEr",
       "active": true
+    },
+    {
+      "codename": "dubai",
+      "vendor": "Motorola",
+      "model": "Motorola Edge 30",
+      "maintainer_name": "JoséMCC",
+      "active": true
     }
   ]
 }

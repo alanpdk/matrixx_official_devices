@@ -1,0 +1,21 @@
+{
+            "maintainer": [
+        {
+            "display_name": "JoséMCC",
+            "telegram": "https://t.me/JoseMCCBuilds",
+            "github": "https://github.com/JoseMCCGit"
+        }
+        ],
+            "beta": false,
+            "available_versions": [
+                       "fifteen"
+                                  ],
+            "release": "monthly",
+            "device_display_name": "Motorola Edge 30",
+            "device_display_codename": "dubai",
+            "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/dubai/",
+            "version": "fifteen",
+            "active": true,
+            "customRecoveryRequired": true,
+            "xda": null
+        }

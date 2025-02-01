@@ -117,6 +117,15 @@
       "XDA": "GameNCode",
       "role": "Maintainer",
       "devices": ["garnet"]
+    },
+    {
+      "name": "JoséMCC",
+      "image": "https://imgur.com/0J0IuQE",
+      "github": "JoseMCCGit",
+      "telegram": "josemcc0705",
+      "XDA": "undefined",
+      "role": "Maintainer",
+      "devices": ["dubai"]
     }
   ]
-} 
+}
