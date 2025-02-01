@@ -8,13 +8,13 @@
     ],
     "beta": false,
     "available_versions": [
-        "fourteen"
+        "fifteen"
     ],
     "release": "monthly",
     "device_display_name": "Redmi Note 11 Pro+ 5G / POCO X4 Pro 5G",
     "device_display_codename": "veux",
-    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/veux/",
-    "version": "fourteen",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/veux/",
+    "version": "fiifteen",
     "active": true,
     "customRecoveryRequired": true,
     "xda": null
