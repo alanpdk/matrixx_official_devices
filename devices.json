@@ -34,6 +34,13 @@
           "model": "Galaxy Tab A7",
           "maintainer_name": "CuriousNom",
           "active": true
+       },
+       {
+          "codename": "beryllium",
+          "vendor": "Xiaomi",
+          "model": "POCO F1",
+          "maintainer_name": "NotDheeraj06",
+          "active": true
        }
   ]
 }
