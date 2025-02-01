@@ -2,14 +2,14 @@
   "team": [
     {
       "name": "Rogert.T",
-      "image": "https://i.imgur.com/Lo6c6dQ.jpg",
+      "image": "https://avatars.githubusercontent.com/u/35808625?v=4",
       "github": "rogerdott",
       "telegram": "Roger_T",
       "role": "Graphics designer"
     },
     {
       "name": "SuperDroidBond",
-      "image": "https://i.imgur.com/PrxlD75.jpg",
+      "image": "https://avatars.githubusercontent.com/u/29166599?v=4",
       "github": "SuperDroidBond",
       "telegram": "SuperDroidBond",
       "XDA": "superdroidbond.8829870",
@@ -23,7 +23,7 @@
     },
     {
       "name": "KSSRAO",
-      "image": "https://i.imgur.com/cmq0JKy.jpg",
+      "image": "https://avatars.githubusercontent.com/u/83109762?v=4",
       "github": "kssrao13882",
       "telegram": "kssrao13882",
       "XDA": "kssrao13882.11649931",
@@ -31,7 +31,7 @@
     },
     {
       "name": "Mukesh Singh",
-      "image": "https://i.imgur.com/5c8kkdA.jpg",
+      "image": "https://avatars.githubusercontent.com/u/30503355?v=4",
       "github": "mukesh22584",
       "telegram": "mukesh22584",
       "XDA": "mukesh22584.5678679",
@@ -39,25 +39,16 @@
     },
     {
       "name": "Mrick343",
-      "image": "https://i.imgur.com/eYiIEfZ.jpg",
+      "image": "https://avatars.githubusercontent.com/u/85066116?v=4",
       "github": "Mrick343",
       "telegram": "Mrick343",
       "XDA": "mrick343.12517809",
       "role": "Core-Member",
       "devices": [""]
     },
-    {      
-      "name": "Dark Phoenix",
-      "image": "https://avatars.githubusercontent.com/u/80503611?v=4",
-      "github": "drkphnx",
-      "telegram": "darkphnx",
-      "XDA": "",
-      "role": "Core-Member and Maintainer",
-      "devices": ["Alioth"]
-    },
     {
       "name": "AAMIR ALI",
-      "image": "https://i.imgur.com/fhctbxH.jpg",
+      "image": "https://avatars.githubusercontent.com/u/78249996?v=4",
       "github": "AAMIRR-ALI",
       "telegram": "AAMIRR_ALI",
       "XDA": "aamirr-ali.12795278",
@@ -66,7 +57,7 @@
     },
     {
       "name": "Arijit Saha",
-      "image": "https://i.imgur.com/M6mbjtC.jpg",
+      "image": "https://avatars.githubusercontent.com/u/107979673?v=4",
       "github": "Arijit78",
       "telegram": "whyred_404",
       "XDA": "whyred_404.12444399",
@@ -93,7 +84,7 @@
     },
     {
       "name": "Aryan",
-      "image": "https://i.imgur.com/Kx8eHPV.jpg",
+      "image": "https://avatars.githubusercontent.com/u/152459091?v=4",
       "github": "CuriousNom",
       "telegram": "CuriousNom",
       "XDA": "the_riderrr.12773444",
