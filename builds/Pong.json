@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Drishal & Ghost",
+            "telegram": "https://t.me/DrishalDiscussion",
+            "github": "https://github.com/Pong-Development/"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "fifteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Nothing Phone (2)",
+    "device_display_codename": "Pong",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/Pong/",
+    "version": "fifteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": "https://xdaforums.com/t/development-rom-a14-project-matrixx-10-5-1-official.4673159/#post-89537501"
+}
