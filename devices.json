@@ -148,11 +148,18 @@
       "active": true
     },
     {
+      "codename": "spes",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 11/NFC",
+      "maintainer_name": "Tanvir ✗ Sayan",
+      "active": true
+    },
+    {
       "codename": "cupidr",
       "vendor": "Realme",
       "model": "Realme GT 5G",
       "maintainer_name": "MNoxx74",
       "active": true
-    }
+    } 
   ]
 }

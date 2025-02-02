@@ -171,6 +171,24 @@
       "devices": ["Pong"]
     },
     {
+      "name": "Tanvir Hasan",
+      "image": "https://avatars.githubusercontent.com/u/43490582",
+      "github": "tanvirr007",
+      "telegram": "tanvirr007",
+      "XDA": "tanvirr007",
+      "role": "Maintainer",
+      "devices": ["spes"]
+    },
+    {
+      "name": "Sayan Sarkar",
+      "image": "https://avatars.githubusercontent.com/u/89209532",
+      "github": "sayann70",
+      "telegram": "sayann70",
+      "XDA": "sayann70",
+      "role": "Maintainer",
+      "devices": ["spes"]
+    },
+    {
       "name": "MNoxx74",
       "image": "https://avatars.githubusercontent.com/u/81765576?v=4",
       "github": "MNoxx74",
@@ -178,6 +196,6 @@
       "XDA": "mnoxx74.11750893",
       "role": "Maintainer",
       "devices": ["cupidr"]
-    }
+    } 
   ]
 }
