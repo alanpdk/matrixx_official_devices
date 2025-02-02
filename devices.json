@@ -132,6 +132,13 @@
       "model": "Redmi Note 8/8T",
       "maintainer_name": "Yeab",
       "active": true
+    },
+    {
+      "codename": "mondrian",
+      "vendor": "Xiaomi",
+      "model": "POCO F5 Pro",
+      "maintainer_name": "Lowxorx",
+      "active": true
     }
   ]
 }

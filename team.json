@@ -144,6 +144,15 @@
       "XDA": "ZorEl212",
       "role": "Maintainer",
       "devices": ["ginkgo"]
+    },
+    {
+      "name": "Lowxorx",
+      "image": "https://avatars.githubusercontent.com/u/56053431?s=96&v=4",
+      "github": "Lowxorx",
+      "telegram": "lowxorx",
+      "XDA": "lowxorx.5870340",
+      "role": "Maintainer",
+      "devices": ["mondrian"]
     }
   ]
 }
