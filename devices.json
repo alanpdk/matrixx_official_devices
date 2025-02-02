@@ -146,6 +146,13 @@
       "model": "Nothing Phone (2)",
       "maintainer_name": "Drishal & Ghost",
       "active": true
+    },
+    {
+      "codename": "cupidr",
+      "vendor": "Realme",
+      "model": "Realme GT 5G",
+      "maintainer_name": "MNoxx74",
+      "active": true
     }
   ]
 }
