@@ -151,6 +151,24 @@
       "XDA": "lowxorx.5870340",
       "role": "Maintainer",
       "devices": ["mondrian"]
+    },
+    {
+      "name": "Drishal",
+      "image": "https://i.imgur.com/hMJWMzX.jpg",
+      "github": "Drishal",
+      "telegram": "Drishal",
+      "XDA": "drishal.7811174",
+      "role": "Maintainer",
+      "devices": ["Pong"]
+    },
+    {
+      "name": "GHOST | ゴースト",
+      "image": "https://imgur.com/a/uyFQZGC",
+      "github": "Ghosuto",
+      "telegram": "Ghosuto7",
+      "XDA": "",
+      "role": "Core-Member and Maintainer",
+      "devices": ["Pong"]
     }
   ]
 }
