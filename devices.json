@@ -146,6 +146,13 @@
       "model": "Nothing Phone (2)",
       "maintainer_name": "Drishal & Ghost",
       "active": true
+    },
+    {
+      "codename": "spes",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 11/NFC",
+      "maintainer_name": "Tanvir ✗ Sayan",
+      "active": true
     }
   ]
 }

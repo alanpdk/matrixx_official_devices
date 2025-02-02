@@ -1,0 +1,21 @@
+{
+  "maintainer": [
+      {
+          "display_name": "Tanvir ✗ Sayan",
+          "telegram": "https://t.me/TanvirBuildsSupport",
+          "github": "https://github.com/tanvirr007"
+      }
+  ],
+  "beta": false,
+  "available_versions": [
+      "fifteen"
+  ],
+  "release": "monthly",
+  "device_display_name": "Redmi Note 11/NFC",
+  "device_display_codename": "spes",
+  "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/spes/",
+  "version": "fifteen",
+  "active": true,
+  "customRecoveryRequired": true,
+  "xda": "https://xdaforums.com/t/rom-14-0-spes-spesn-matrixxos-official-aosp.4661116/"
+}
