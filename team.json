@@ -196,6 +196,15 @@
       "XDA": "mnoxx74.11750893",
       "role": "Maintainer",
       "devices": ["cupidr"]
+    },
+    {
+      "name": "Austin Young",
+      "image": "https://avatars.githubusercontent.com/u/3998633?v=4",
+      "github": "austineyoung2000",
+      "telegram": "EliteDarkKaiser",
+      "XDA": "EliteDarkKaiser",
+      "role": "Maintainer",
+      "devices": ["tangorpro"]
     } 
   ]
 }
