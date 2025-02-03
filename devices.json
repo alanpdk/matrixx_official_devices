@@ -160,6 +160,13 @@
       "model": "Realme GT 5G",
       "maintainer_name": "MNoxx74",
       "active": true
+    },
+    {
+      "codename": "tangorpro",
+      "vendor": "Google",
+      "model": "Pixel Tablet",
+      "maintainer_name": "EliteDarkKaiser",
+      "active": true
     } 
   ]
 }
