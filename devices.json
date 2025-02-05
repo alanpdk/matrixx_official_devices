@@ -167,6 +167,13 @@
       "model": "Pixel Tablet",
       "maintainer_name": "EliteDarkKaiser",
       "active": true
+    },
+    {
+      "codename": "vili",
+      "vendor": "Xiaomi",
+      "model": "Xiaomi 11T Pro",
+      "maintainer_name": "swiitchOFF",
+      "active": true
     } 
   ]
 }
