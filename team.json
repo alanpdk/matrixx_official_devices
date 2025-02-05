@@ -207,6 +207,15 @@
       "devices": ["tangorpro"]
     },
     {
+      "name": "James Cable",
+      "image": "https://avatars.githubusercontent.com/u/438772?v=4",
+      "github": "Jrcable1",
+      "telegram": "Jrcable2",
+      "XDA": "jamescable.3604271",
+      "role": "Maintainer",
+      "devices": ["raven"]
+   },
+   {
       "name": "swiitchOFF",
       "image": "https://avatars.githubusercontent.com/u/120115258?v=4",
       "github": "swiitchOFF",

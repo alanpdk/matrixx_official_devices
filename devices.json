@@ -169,6 +169,13 @@
       "active": true
     },
     {
+      "codename": "raven",
+      "vendor": "Google",
+      "model": "Pixel 6 Pro",
+      "maintainer_name": "Jrcable2",
+      "active": true
+    },
+    {
       "codename": "vili",
       "vendor": "Xiaomi",
       "model": "Xiaomi 11T Pro",
