@@ -214,6 +214,14 @@
       "XDA": "jamescable.3604271",
       "role": "Maintainer",
       "devices": ["raven"]
+   {
+      "name": "swiitchOFF",
+      "image": "https://avatars.githubusercontent.com/u/120115258?v=4",
+      "github": "swiitchOFF",
+      "telegram": "swiitchOFF",
+      "XDA": "swiitchoff.12717063",
+      "role": "Maintainer",
+      "devices": ["vili"]
     } 
   ]
 }

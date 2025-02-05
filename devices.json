@@ -174,6 +174,13 @@
       "model": "Pixel 6 Pro",
       "maintainer_name": "Jrcable2",
       "active": true
-    }
+    },
+    {
+      "codename": "vili",
+      "vendor": "Xiaomi",
+      "model": "Xiaomi 11T Pro",
+      "maintainer_name": "swiitchOFF",
+      "active": true
+    } 
   ]
 }
