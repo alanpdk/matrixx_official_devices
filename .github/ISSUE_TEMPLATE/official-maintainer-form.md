@@ -58,15 +58,7 @@ Your Telegram username
 Your Github username
 ```
 
-### [MUST] Link to your XDA thread of unofficial build
-<!-- Before being able to maintainer Project-Matrixx officially,
-you must have already made an XDA
-Refer Maintainer Requirements -->
-```
-Link to where you have posted your build publically.
-```
-
-### [MUST] Link to your unofficial Matrixx Build Post other than XDA
+### [MUST] Link to your unofficial Matrixx Build Post
 <!-- Before being able to maintainer Project-Matrixx officially,
 you must have already made your unofficial build public.
 Refer Maintainer Requirements -->
