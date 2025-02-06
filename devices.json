@@ -188,6 +188,13 @@
       "model": "POCO F5/Redmi note 12 turbo",
       "maintainer_name": "CHAITANYA",
       "active": true
+    },
+    {
+      "codename": "peridot",
+      "vendor": "Xiaomi",
+      "model": "POCO F6/Redmi Turbo 3",
+      "maintainer_name": "Drenzzz.",
+      "active": true
     }
   ]
 }
