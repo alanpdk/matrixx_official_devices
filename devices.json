@@ -181,6 +181,13 @@
       "model": "Xiaomi 11T Pro",
       "maintainer_name": "swiitchOFF",
       "active": true
-    } 
+    },
+    {
+      "codename": "marble",
+      "vendor": "Xiaomi",
+      "model": "POCO F5/Redmi note 12 turbo",
+      "maintainer_name": "CHAITANYA",
+      "active": true
+    }
   ]
 }

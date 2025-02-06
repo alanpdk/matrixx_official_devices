@@ -223,6 +223,15 @@
       "XDA": "swiitchoff.12717063",
       "role": "Maintainer",
       "devices": ["vili"]
-    } 
+    },
+    {
+      "name": "CHAITANYA",
+      "image": "https://i.imgur.com/fuvuWKl.jpeg",
+      "github": "chaitanyakm",
+      "telegram": "chaitanyabuilds",
+      "XDA": "chaitanyakm.12856495",
+      "role": "Maintainer",
+      "devices": ["marble"]
+    }
   ]
 }
